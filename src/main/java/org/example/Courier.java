@@ -1,6 +1,5 @@
 package org.example;
 
-
 import org.apache.commons.lang3.RandomStringUtils;
 
 public class Courier {
@@ -47,4 +46,3 @@ public class Courier {
         return fistNameCourier;
     }
 }
-
